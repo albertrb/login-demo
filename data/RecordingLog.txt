@@ -1,0 +1,248 @@
+[API Trapper      (2d58:3e14)] Recording in 32-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (2d58:156c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2d58:156c)] Load Network Traffic Analyzers:
+[Network Analyzer (2d58:156c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (2d58:156c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (2d58:156c)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (2d58:156c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (2d58:156c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (2d58:156c)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (2d58:156c)]     Analyzer Module: local_server (value=)
+[Network Analyzer (2d58:156c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2d58:3e60)] Address lookup for RIBAKOVS3 = 16.54.181.6
+[API Trapper      (32c8:37e0)] Recording in 32-bit mode: C:\windows\SysWOW64\cmd.exe
+[API Trapper      (1e74:297c)] Recording in 32-bit mode: C:\Users\ribakovs\AppData\Local\IE Tab\8.4.13.1\ietabhelper.exe
+[Network Analyzer (2d58:156c)] Address lookup for RIBAKOVS3 = 16.54.181.6
+[Network Analyzer (2d58:156c)] Request Connection: Remote Server @ 16.44.112.247:135   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (2d58:3e60)]   (Sid:  1) Client -> Server @ : 116 bytes 
+[Network Analyzer (2d58:3e60)]   (Sid:  1) Server -> Client : 84 bytes 
+[Network Analyzer (2d58:3e60)]   (Sid:  1) Client -> Server @ : 156 bytes 
+[Network Analyzer (2d58:3e60)]   (Sid:  1) Server -> Client : 240 bytes 
+[Network Analyzer (2d58:156c)] Address lookup for RIBAKOVS3 = 16.54.181.6
+[Network Analyzer (2d58:156c)] Request Connection: Remote Server @ 16.44.112.247:49156   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (2d58:3e60)]   (Sid:  2) Client -> Server @ : 2280 bytes 
+[Network Analyzer (2d58:3e60)]   (Sid:  2) Server -> Client : 261 bytes 
+[Network Analyzer (2d58:3e60)]   (Sid:  2) Client -> Server @ : 220 bytes 
+[Network Analyzer (2d58:3e60)]   (Sid:  2) Server -> Client : 105 bytes 
+[Network Analyzer (2d58:3e60)]   (Sid:  2) Client -> Server @ : 252 bytes 
+[Network Analyzer (2d58:3e60)]   (Sid:  2) Server -> Client : 204 bytes 
+[Network Analyzer (2d58:3e60)]   (Sid:  2) Client -> Server @ : 140 bytes 
+[Network Analyzer (2d58:3e60)]   (Sid:  2) Server -> Client : 140 bytes 
+[Network Analyzer (2d58:2e4c)] Address lookup for RIBAKOVS3 = 16.54.181.6
+[Network Analyzer (2d58:2e4c)] Request Connection: Remote Server @ 16.216.32.50:80   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (2d58:2e4c)] Address lookup for RIBAKOVS3 = 16.54.181.6
+[Network Analyzer (2d58:2e4c)] Request Connection: Remote Server @ 16.216.32.50:80   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (2d58:2e4c)] Address lookup for RIBAKOVS3 = 16.54.181.6
+[Network Analyzer (2d58:2e4c)] Request Connection: Remote Server @ 16.216.32.50:80   (Service=)  (Sid=  5)  PROXIED!
+[Web Request      (2d58:3e60)] "GET /"   
+[Network Analyzer (2d58:3e60)]   (Sid:  3) Client -> Server @ : 221 bytes (Service=HTTP)
+[Web Request      (2d58:3e60)] "GET /"   
+[Network Analyzer (2d58:3e60)]   (Sid:  4) Client -> Server @ : 221 bytes (Service=HTTP)
+[Web Request      (2d58:3e60)] "GET /"   
+[Network Analyzer (2d58:3e60)]   (Sid:  5) Client -> Server @ : 221 bytes (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid:  3) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid:  3) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid:  4) Server -> Client : 4380 bytes  (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid:  5) Server -> Client : 4380 bytes  (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid:  3) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid:  3) Server -> Client : 4380 bytes  (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid:  4) Server -> Client : 5840 bytes  (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid:  5) Server -> Client : 7300 bytes  (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid:  3) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid:  3) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid:  4) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid:  3) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid:  3) Server -> Client : 2184 bytes  (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid:  4) Server -> Client : 5104 bytes  (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid:  5) Server -> Client : 6564 bytes  (Service=HTTP)
+[Network Analyzer (2d58:2e4c)] Address lookup for RIBAKOVS3 = 16.54.181.6
+[Network Analyzer (2d58:2e4c)] Request Connection: Remote Server @ 16.42.57.12:8080   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (2d58:2e4c)] Address lookup for RIBAKOVS3 = 16.54.181.6
+[Network Analyzer (2d58:2e4c)] Request Connection: Remote Server @ 16.42.57.12:8080   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (2d58:2e4c)] Address lookup for RIBAKOVS3 = 16.54.181.6
+[Network Analyzer (2d58:2e4c)] Request Connection: Remote Server @ 16.42.57.12:8080   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (2d58:2e4c)] Address lookup for RIBAKOVS3 = 16.54.181.6
+[Network Analyzer (2d58:2e4c)] Request Connection: Remote Server @ 16.42.57.12:8080   (Service=)  (Sid=  9)  PROXIED!
+[Web Request      (2d58:3e60)] "CONNECT translate.googleapis.com:443"   
+[Network Analyzer (2d58:3e60)]   (Sid:  6) Client -> Server @ : 234 bytes (Service=HTTP)
+[Web Request      (2d58:3e60)] "CONNECT jquery.com:443"   
+[Network Analyzer (2d58:3e60)]   (Sid:  7) Client -> Server @ : 206 bytes (Service=HTTP)
+[Web Request      (2d58:3e60)] "CONNECT ssl.google-analytics.com:443"   
+[Network Analyzer (2d58:3e60)]   (Sid:  8) Client -> Server @ : 234 bytes (Service=HTTP)
+[Web Request      (2d58:3e60)] "CONNECT www.gstatic.com:443"   
+[Network Analyzer (2d58:3e60)]   (Sid:  9) Client -> Server @ : 216 bytes (Service=HTTP)
+[Network Analyzer (2d58:2e4c)] Address lookup for RIBAKOVS3 = 16.54.181.6
+[Network Analyzer (2d58:2e4c)] Request Connection: Remote Server @ 16.42.57.12:8080   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (2d58:2e4c)] Address lookup for RIBAKOVS3 = 16.54.181.6
+[Web Request      (2d58:3e60)] "CONNECT www.google-analytics.com:443"   
+[Network Analyzer (2d58:3e60)]   (Sid: 10) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (2d58:2e4c)] Request Connection: Remote Server @ 16.42.57.12:8080   (Service=)  (Sid= 11)  PROXIED!
+[Web Request      (2d58:3e60)] "CONNECT clients4.google.com:443"   
+[Network Analyzer (2d58:3e60)]   (Sid: 11) Client -> Server @ : 224 bytes (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid:  8) Server -> Client : 39 bytes 
+[Network Analyzer (2d58:3e60)]   (Sid:  9) Server -> Client : 39 bytes 
+[Network Analyzer (2d58:3e60)]   (Sid:  7) Server -> Client : 39 bytes 
+[Network Analyzer (2d58:3e60)]   (Sid: 10) Server -> Client : 39 bytes 
+[Network Analyzer (2d58:3e60)]   (Sid:  6) Server -> Client : 39 bytes 
+[Network Analyzer (2d58:3e60)]   (Sid: 11) Server -> Client : 39 bytes 
+[Network Analyzer (2d58:2710)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2d58:2710)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:DHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2d58:2e4c)] Address lookup for RIBAKOVS3 = 16.54.181.6
+[Web Request      (2d58:3e60)] "GET /analytics.js"   
+[Network Analyzer (2d58:3e60)]   (Sid: 10) Client -> Server @ : 365 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2d58:2e4c)] Request Connection: Remote Server @ 16.42.57.12:8080   (Service=)  (Sid= 12)  PROXIED!
+[Web Request      (2d58:3e60)] "CONNECT ssl.gstatic.com:443"   
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Client -> Server @ : 216 bytes (Service=HTTP)
+[Network Analyzer (2d58:3584)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2d58:3584)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:DHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2d58:3e60)]   (Sid: 10) Server -> Client : 168 bytes (SSL) (Service=HTTP)
+[Web Request      (2d58:3e60)] "GET /translate_a/l?client=chrome&cb=sl&hl=en&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw&alpha=1"   
+[Network Analyzer (2d58:3e60)]   (Sid:  6) Client -> Server @ : 320 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 39 bytes 
+[Network Analyzer (2d58:3e60)]   (Sid:  6) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid:  6) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3c5c)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2d58:3c5c)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:DHE-RSA-AES128-GCM-SHA256)
+[Web Request      (2d58:3e60)] "GET /chrome-variations/seed?osname=win"   
+[Network Analyzer (2d58:3e60)]   (Sid: 11) Client -> Server @ : 309 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2d58:2e4c)] Address lookup for RIBAKOVS3 = 16.54.181.6
+[Network Analyzer (2d58:3e60)]   (Sid: 11) Server -> Client : 212 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:2e4c)] Request Connection: Remote Server @ 16.42.57.12:8080   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (2d58:2e4c)] Address lookup for RIBAKOVS3 = 16.54.181.6
+[Network Analyzer (2d58:2e4c)] Request Connection: Remote Server @ 16.42.57.12:8080   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (2d58:2e4c)] Address lookup for RIBAKOVS3 = 16.54.181.6
+[Network Analyzer (2d58:3c9c)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2d58:254c)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (2d58:254c)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2d58:283c)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2d58:3308)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2d58:2e4c)] Request Connection: Remote Server @ 16.42.57.12:8080   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (2d58:3c9c)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:DHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2d58:283c)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:DHE-RSA-AES128-GCM-SHA256)
+[Web Request      (2d58:3e60)] "HEAD http://cuyvmkhvocgi/"   
+[Network Analyzer (2d58:3e60)]   (Sid: 13) Client -> Server @ : 262 bytes (Service=HTTP)
+[Web Request      (2d58:3e60)] "HEAD http://goumqbs/"   
+[Network Analyzer (2d58:3e60)]   (Sid: 14) Client -> Server @ : 252 bytes (Service=HTTP)
+[Network Analyzer (2d58:3308)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:DHE-RSA-AES128-GCM-SHA256)
+[Web Request      (2d58:3e60)] "HEAD http://iycagzoks/"   
+[Network Analyzer (2d58:3e60)]   (Sid: 15) Client -> Server @ : 256 bytes (Service=HTTP)
+[Web Request      (2d58:3e60)] "GET /chrome/profile_avatars/NothingToDownload"   
+[Network Analyzer (2d58:3e60)]   (Sid:  9) Client -> Server @ : 260 bytes (SSL)(Service=HTTP)
+[Web Request      (2d58:3e60)] "GET /ga.js"   
+[Network Analyzer (2d58:3e60)]   (Sid:  8) Client -> Server @ : 358 bytes (SSL)(Service=HTTP)
+[Web Request      (2d58:3e60)] "GET /safebrowsing/csd/client_model_v5.pb"   
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Client -> Server @ : 255 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid:  8) Server -> Client : 167 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid:  9) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid:  9) Server -> Client : 333 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 13) Server -> Client : 184 bytes  (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 14) Server -> Client : 184 bytes  (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 15) Server -> Client : 184 bytes  (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 13) Connection Terminated (by Server)
+[Network Analyzer (2d58:3e60)]   (Sid: 14) Connection Terminated (by Server)
+[Network Analyzer (2d58:3e60)]   (Sid: 15) Connection Terminated (by Server)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 292 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid:  7) Connection Terminated (by Server)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:2e4c)] Address lookup for RIBAKOVS3 = 16.54.181.6
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1243 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 1371 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 12) Server -> Client : 122 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:2e4c)] Request Connection: Remote Server @ 16.42.57.12:8080   (Service=)  (Sid= 16)  PROXIED!
+[Web Request      (2d58:3e60)] "CONNECT jquery.com:443"   
+[Network Analyzer (2d58:3e60)]   (Sid: 16) Client -> Server @ : 206 bytes (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 16) Server -> Client : 39 bytes 
+[Network Analyzer (2d58: 170)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (2d58: 170)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2d58:3e60)]   (Sid: 16) Connection Terminated (by Server)
+[Network Analyzer (2d58:2e4c)] Address lookup for RIBAKOVS3 = 16.54.181.6
+[Network Analyzer (2d58:2e4c)] Request Connection: Remote Server @ 16.42.57.12:8080   (Service=)  (Sid= 17)  PROXIED!
+[Web Request      (2d58:3e60)] "CONNECT jquery.com:443"   
+[Network Analyzer (2d58:3e60)]   (Sid: 17) Client -> Server @ : 206 bytes (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 17) Server -> Client : 39 bytes 
+[Network Analyzer (2d58:1fa4)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (2d58:1fa4)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2d58:2e4c)] Address lookup for RIBAKOVS3 = 16.54.181.6
+[Network Analyzer (2d58:3e60)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer (2d58:2e4c)] Request Connection: Remote Server @ 16.42.57.11:8080   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (2d58:2e4c)] Address lookup for RIBAKOVS3 = 16.54.181.6
+[Web Request      (2d58:3e60)] "CONNECT jquery.com:443"   
+[Network Analyzer (2d58:3e60)]   (Sid: 18) Client -> Server @ : 206 bytes (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid:  1) Connection Terminated (by Client)
+[Network Analyzer (2d58:3e60)]   (Sid: 18) Server -> Client : 39 bytes 
+[Network Analyzer (2d58:3e60)]   (Sid:  2) Connection Terminated (by Client)
+[Network Analyzer (2d58:2e4c)] Request Connection: Remote Server @ 16.42.57.11:8080   (Service=)  (Sid= 19)  PROXIED!
+[Web Request      (2d58:3e60)] "CONNECT www.google.com:443"   
+[Network Analyzer (2d58:3e60)]   (Sid: 19) Client -> Server @ : 214 bytes (Service=HTTP)
+[Network Analyzer (2d58:3e88)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (2d58:3e88)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2d58:3e60)]   (Sid: 19) Server -> Client : 39 bytes 
+[Network Analyzer (2d58:3bcc)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2d58:3bcc)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:DHE-RSA-AES128-GCM-SHA256)
+[Web Request      (2d58:3e60)] "GET /searchdomaincheck?format=domain&type=chrome"   
+[Network Analyzer (2d58:3e60)]   (Sid: 19) Client -> Server @ : 1227 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 19) Server -> Client : 505 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 19) Server -> Client : 106 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid:  5) Connection Terminated (by Server)
+[Network Analyzer (2d58:3e60)]   (Sid:  3) Connection Terminated (by Server)
+[Network Analyzer (2d58:3e60)]   (Sid:  4) Connection Terminated (by Server)
+[Network Analyzer (2d58:3e60)]   (Sid: 18) Connection Terminated (by Server)
+[Network Analyzer (2d58:2e4c)] Address lookup for RIBAKOVS3 = 16.54.181.6
+[Network Analyzer (2d58:2e4c)] Request Connection: Remote Server @ 16.42.57.13:8080   (Service=)  (Sid= 20)  PROXIED!
+[Web Request      (2d58:3e60)] "CONNECT jquery.com:443"   
+[Network Analyzer (2d58:3e60)]   (Sid: 20) Client -> Server @ : 206 bytes (Service=HTTP)
+[Network Analyzer (2d58:3e60)]   (Sid: 20) Connection Terminated (by Client)

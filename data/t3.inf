@@ -1,0 +1,10 @@
+[t3]
+FileName1=t3_seed.html
+URL1=https://clients4.google.com/chrome-variations/seed?osname=win
+Total=3
+ContentType=application/octet-stream
+SnapshotXmlFile=snapshot_3.xml
+FileName2=t3_client_model_v5.html
+URL2=https://ssl.gstatic.com/safebrowsing/csd/client_model_v5.pb
+FileName3=t3_searchdomaincheck.txt
+URL3=https://www.google.com/searchdomaincheck?format=domain&type=chrome
