@@ -1,23 +1,23 @@
-Virtual User Script started at : 7/21/2015 10:44:30 AM
+Virtual User Script started at : 7/27/2015 11:35:19 AM
 Starting action vuser_init.
-Web Turbo Replay of LoadRunner 12.51.0 for Windows 8.1; build 106 (ιεμ 21 2015 21:41:42)  	[MsgId: MMSG-27143]
+Web Turbo Replay of LoadRunner 12.51.0 for Windows 8.1; build 147 (ιεμ 27 2015 21:37:52)  	[MsgId: MMSG-27143]
 Run mode: HTML  	[MsgId: MMSG-26993]
 Replay user agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36  	[MsgId: MMSG-26988]
-Run-Time Settings file: "C:\Users\ribakovs\Documents\VuGen\Scripts\0)\WebHttpHtml1\\default.cfg"  	[MsgId: MMSG-27141]
+Run-Time Settings file: "C:\Work\GitHub\login-demo-libigt\\default.cfg"  	[MsgId: MMSG-27141]
 Starting to download the proxy automatic configuration script, URL="http://autocache.hp.com/"  	[MsgId: MMSG-27097]
 Error -27040: Data Format Extension: Extension: GWT - ERROR [GWT_DFE] - error in perProcessInitInternal:com.hp.dfe.exceptions.GWTClassesNotFoundException: GWT classes not found, please add GWT jar or classes to the classpath
-com/google/gwt/user/client/rpc/IncompatibleRemoteServiceException
+com/google/gwt/user/client/rpc/SerializationException
 	at com.hp.dfe.GWT_DFE_DYNAMICALLY_REFLECTED.<init>(GWT_DFE_DYNAMICALLY_REFLECTED.java:32)
 	at com.hp.dfe.GWT_DFE_LAUNCHER.extendClassLoader(GWT_DFE_LAUNCHER.java:222)
 	at com.hp.dfe.GWT_DFE_LAUNCHER.perProcessInitInternal(GWT_DFE_LAUNCHER.java:162)
 	at com.hp.dfe.GWT_DFE_LAUNCHER.perProcessInit(GWT_DFE_LAUNCHER.java:144)
-Caused by: java.lang.NoClassDefFoundError: com/google/gwt/user/client/rpc/IncompatibleRemoteServiceException
+Caused by: java.lang.NoClassDefFoundError: com/google/gwt/user/client/rpc/SerializationException
 	at java.lang.Class.getDeclaredMethods0(Native Method)
 	at java.lang.Class.privateGetDeclaredMethods(Class.java:2442)
 	at java.lang.Class.getDeclaredMethods(Class.java:1808)
 	at com.hp.dfe.GWT_DFE_DYNAMICALLY_REFLECTED.<init>(GWT_DFE_DYNAMICALLY_REFLECTED.java:29)
 	... 3 more
-Caused by: java.lang.ClassNotFoundException: com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException
+Caused by: java.lang.ClassNotFoundException: com.google.gwt.user.client.rpc.SerializationException
 	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
 	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
 	at java.security.AccessController.doPrivileged(Native Method)

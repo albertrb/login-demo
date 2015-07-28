@@ -116,19 +116,19 @@
 ]
 >
 <Report ver="2.0" tmZone="Jerusalem Standard Time">
-<General productName="Vugen" productVer="12" os="" host="RIBAKOVS3"><DocLocation><![CDATA[C:\Users\ribakovs\Documents\VuGen\Scripts\0)\WebHttpHtml1]]></DocLocation></General>
+<General productName="Vugen" productVer="12" os="" host="RIBAKOVS3"><DocLocation><![CDATA[C:\Work\GitHub\login-demo-libigt]]></DocLocation></General>
 <Doc rID="T1"   productName= "Vugen"  >
 <DName><![CDATA[WebHttpHtml1]]></DName>
 <Res><![CDATA[result1]]></Res>
 <Step rID="T2">
 <Obj plainTxt="False" ><![CDATA[Script Aborted!]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Pass</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[7/21/2015 - 10:44:31]]></Time>
+<Time><![CDATA[7/27/2015 - 11:35:21]]></Time>
 <NodeArgs eType="General" icon="1" nRep="5" >
 <Disp><![CDATA[Script Aborted!]]></Disp>
 </NodeArgs>
 </Step>
-<Summary sTime="7/21/2015 - 10:44:30" eTime="7/21/2015 - 10:44:31" passed="0" failed="0" warnings="0" ></Summary>
+<Summary sTime="7/27/2015 - 11:35:19" eTime="7/27/2015 - 11:35:21" passed="0" failed="0" warnings="0" ></Summary>
 <NodeArgs eType="StartTest" icon="1" nRep="4" >
 <Disp><![CDATA[Test WebHttpHtml1 Summary]]></Disp>
 </NodeArgs>

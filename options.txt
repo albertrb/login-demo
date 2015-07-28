@@ -2,8 +2,8 @@
 -DCCI
 -D_IDA_XL
 -DWINNT
--IC:\Users\ribakovs\Documents\VuGen\Scripts\0)\WebHttpHtml1
+-IC:\Work\GitHub\login-demo-libigt
 -IC:\Program Files (x86)\HP\LoadRunner\include
--ec:\users\ribakovs\documents\vugen\scripts\0)\webhttphtml1\\logfile.log
-c:\users\ribakovs\documents\vugen\scripts\0)\webhttphtml1\\combined_WebHttpHtml1.c
-c:\users\ribakovs\documents\vugen\scripts\0)\webhttphtml1\\pre_cci.c
+-ec:\work\github\login-demo-libigt\\logfile.log
+c:\work\github\login-demo-libigt\\combined_WebHttpHtml1.c
+c:\work\github\login-demo-libigt\\pre_cci.c
