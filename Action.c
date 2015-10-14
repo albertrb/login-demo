@@ -2,11 +2,13 @@ Action()
 {
 
 	//new comment
-	//TODO 
+	//To do tomoorw 
+	lr_think_time(3);
+
 	
+	/* <comments> */
 	
-	
-	
+
 	web_set_sockets_option("SSL_VERSION", "TLS1.1");
 
 	web_add_header("Accept-Language", 
